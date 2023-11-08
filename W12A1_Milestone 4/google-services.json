@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "745904842085",
+    "project_id": "concertreviewapp",
+    "storage_bucket": "concertreviewapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745904842085:android:07b0eed19acfef8671ad8c",
+        "android_client_info": {
+          "package_name": "edu.iu.infoi400590"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745904842085-h6kkimtcj2tnaiqluvht2kpod3hpq2e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYSzdfXOg6b3mdKvbgX9NzG1F7okdh24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745904842085-h6kkimtcj2tnaiqluvht2kpod3hpq2e8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "745904842085-iafacjf709tdn681te3v72etsrahlf3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.concert-review-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
