@@ -138,25 +138,25 @@ function ReviewComment() {
 
     </View>
 
-    <View style={{
-        height: 600,
-        backgroundColor: "fff",
-      }}>
-        <View style={{
-          height: 200,
-          width: 380,
-          borderColor: "lightgray",
-          borderWidth: 1,
-          alignSelf: "center",
-          borderRadius: 10,
-        }}>
+    // <View style={{
+    //     height: 600,
+    //     backgroundColor: "fff",
+    //   }}>
+    //     <View style={{
+    //       height: 200,
+    //       width: 380,
+    //       borderColor: "lightgray",
+    //       borderWidth: 1,
+    //       alignSelf: "center",
+    //       borderRadius: 10,
+    //     }}>
 
-          <Text style={{}}>{'\n'}     {comment}</Text>
-          <View>{Rating.rating}</View>
+    //       <Text style={{}}>{'\n'}     {comment}</Text>
+    //       <View>{Rating.rating}</View>
 
-        </View>
+    //     </View>
 
-      </View>
+    //   </View>
       </View>
 
     
