@@ -6,8 +6,8 @@ export default function HomePage({ navigation }) {
 
   let concerts=[
     "BTS",
-    "Suga | August D",
-    "Taylor Swift",
+    "Suga",
+    "Taylor",
   ];
 
   return (
